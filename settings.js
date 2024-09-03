@@ -4,24 +4,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: GlobalTechInfo" //ur yt chanel name
-global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
-global.location = "Pakistan, Karachi, Karachi" //ur location
+global.ytname = "YT: Kenebi Obi" //ur yt chanel name
+global.socialm = "GitHub: ObiDavidK" //ur github or insta name
+global.location = "Epe, Lagos, Nigeria" //ur location
 
 //new
-global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
-global.ownername = '© GlobalTechInfo' //ur owner name
+global.botname = '© Davis 😉' //ur bot name
+global.ownernumber = ['2349018909938'] //ur owner number, dont add more than one
+global.ownername = '© Obi David 😏😎' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
-global.packname = "Sticker By"
-global.author = "GlobalTechInfo\n\n+923444844060"
+global.packname = "Sticker By Obi David 😏😎"
+global.author = "Obi David 😏😎\n\n2349018909938"
 global.creator = "923444844060@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.xprefix = '!'
+global.premium = ["2349018909938"] // Premium User
 
 //channel id
 global.xchannel = {
